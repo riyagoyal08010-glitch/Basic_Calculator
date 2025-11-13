@@ -34,6 +34,8 @@ Basic_Calculator/
 │
 ├── calculator.py      # Main calculator code
 └── README.md          # Documentation file
+└── .gitignore        
+└── LICENSE       
 ```
 
 ---
